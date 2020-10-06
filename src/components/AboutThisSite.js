@@ -24,7 +24,7 @@ class AboutThisSite extends React.Component {
           This website is developed & designed by me. You can find the source
           code in{" "}
           <a
-            href="https://github.com/nemo369/portfolio"
+            href="https://github.com/snirshahar"
             target="_blank"
             rel="noopener noreferrer"
           >
